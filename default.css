@@ -1,0 +1,104 @@
+body{
+    background-color: #F8F6E9;
+    margin: 0;
+}
+.pergunta{
+    height: 34.1vh;
+    margin-top: -20px;
+    font-size: 42px;
+    font-weight: bold;
+    justify-content: center;
+    display: flex;
+    padding-left: 15px;
+}
+.firstask{
+    height: 30vh;
+    font-size: 20px;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+.infesq{
+    padding-left: 15px;
+}
+.category{
+    margin-top: 141px;
+    font-weight: bold;
+}
+.difficult{
+    font-weight: bold;
+    margin-top: -15px;
+}
+.acertos{
+    font-weight: bold;
+    margin-top: -15px;
+}
+.erros{
+    font-weight: bold;
+    margin-top: -15px;
+}
+.resp1{
+    font-size: 30px;
+}
+.resp1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.resp2{
+    font-size: 30px;
+}
+.resp2:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.resp3{
+    font-size: 30px;
+}
+.resp3:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.resp4{
+    font-size: 30px;
+}
+.resp4:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.resp5{
+    font-size: 30px;
+}
+.resp5:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.resp6{
+    font-size: 30px;
+}
+.resp6:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.select1{
+    margin-top: -94px;
+    margin-left: 1425px;
+    font-weight: bold;
+}
+.botaoRapido{
+    margin-left: 1408px;
+    margin-top: -80px;
+    display: flex;
+    flex-direction: column;  
+}
+.select2{
+    margin-top: -5px;
+    margin-left: 1425px;
+    font-weight: bold;
+}
+.botaoPerdao{
+    margin-left: 1408px;
+    margin-top: 17px;
+    display: flex;
+    flex-direction: column;  
+}
